@@ -1,0 +1,24 @@
+title: Security Log
+description: >-
+  A running log of cybersecurity work — CTFs, home-lab notes, tool
+  experiments, and study notes.
+theme: minima
+minima:
+  skin: dark
+
+show_excerpts: true
+
+header_pages:
+  - about.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
