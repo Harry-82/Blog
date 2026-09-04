@@ -4,10 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This site is a public log of cybersecurity work as it happens — CTF
-writeups, home-lab builds, tool notes, and progress on ongoing learning.
-The goal is an honest, dated trail of what's being worked on, not
-polished tutorials, so expect posts that read like real progress rather
-than finished guides.
+I started this site to keep track of the cybersecurity work I'm doing. CTF write ups, home lab stuff, notes on tools I'm picking up, that kind of thing. It's meant to be an honest record of progress, not a set of finished tutorials, so some posts will be rough around the edges.
 
-New posts go up as new work gets done. Thanks for stopping by.
+I post as I go, whenever there's something worth sharing. Thanks for checking it out.

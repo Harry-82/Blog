@@ -4,9 +4,6 @@ layout: home
 
 # Welcome
 
-This is a running log of cybersecurity work in progress — CTF challenges,
-home-lab builds, tool experiments, and everything else along the way to
-getting better at this. New entries go up as the work happens, so check
-back for the latest.
+This is where I log the cybersecurity stuff I'm working on. CTF challenges, home lab builds, tools I'm learning, whatever I'm actually doing at the time. It's not meant to be polished, just a real record of the work as it happens.
 
-Have a look around, and feel free to follow along.
+New posts go up whenever I finish something worth writing about. Take a look around.
