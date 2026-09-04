@@ -5,3 +5,18 @@ _site/
 vendor/
 Gemfile.lock
 .sass-cache/
+
+# Secrets / credentials - never commit these
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+secrets*
+credentials*
+*_rsa
+*_rsa.pub
+id_rsa*
+.aws/
+.ssh/
